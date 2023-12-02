@@ -5,7 +5,7 @@ export default {
   appearance: "dark",
   description: "Guías independientes.",
   cleanUrls: true,
-  base: "/",
+  base: '/vitepress_new/',
   lang: "es-ES",
   themeConfig: {
     siteTitle: "C++ 42 Projects",
